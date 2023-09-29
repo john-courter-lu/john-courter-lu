@@ -10,7 +10,7 @@
 - 🤔 I’m interested in learning more about **Python, Node.js, and Express.js**
 - 💬 Ask me about **granola and yogurt**
 - 📫 How to reach me: **lu4j@cmich.edu**
-- 👨‍💼 Connect me on LinkedIn: [in/john-courter-lu/](https://www.linkedin.com/in/john-courter-lu/)
+- 👨‍💼 Connect with me on LinkedIn: [in/john-courter-lu/](https://www.linkedin.com/in/john-courter-lu/)
 - 😄 Pronouns: **he/his**
 - ⚡ Fun fact: **I am married to a Pokemon nerd who happens to own a Pokemon store**
 
