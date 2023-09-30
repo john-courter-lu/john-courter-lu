@@ -12,7 +12,7 @@
 - 📫 How to reach me: **lu4j@cmich.edu**
 - 👨‍💼 Connect with me on LinkedIn: [in/john-courter-lu/](https://www.linkedin.com/in/john-courter-lu/)
 - 😄 Pronouns: **he/his**
-- ⚡ Fun fact: **I am married to a Pokemon nerd who happens to own a Pokemon store**
+- ⚡ Fun fact: **I am married to a Pokemon nerd, and we run an online Pokemon store together**
 
 <h3 align="center">Stats about my GitHub</h3>
 
