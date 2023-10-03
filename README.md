@@ -4,7 +4,7 @@
 
 <h3 align="center">A full-stack software developer at Nashville Software School</h3>
 
-- 🔭 I’m currently working on [a ASP.Net Core Controller Project](https://github.com/john-courter-lu/BiancasBikes)
+- 🔭 I’m currently working on [a ASP.Net Core Controller Project](https://github.com/john-courter-lu/HouseRules)
 - 🌱 I’m currently learning **C#/.NET and SQL**
 - 👯 I’m looking to collaborate on **projects with React.js and Material UI**
 - 🤔 I’m interested in learning more about **Python, Node.js, and Express.js**
