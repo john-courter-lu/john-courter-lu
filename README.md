@@ -1,10 +1,10 @@
 ### Hello 👋
 
-<h1 align="center">Hi 👋, I'm John Lu</h1>
+<h1 align="center">Hi, I'm John Lu</h1>
 
 <h3 align="center">A full-stack software developer at Nashville Software School</h3>
 
-- 🔭 I’m currently working on [my full-stack capstone with ASP.Net Core Controller](https://github.com/john-courter-lu/UrbanNest)
+- 🔭 I’m currently working on [my full-stack capstone with ASP.Net Core Controller](https://github.com/john-courter-lu/UrbanNest) and [my first Python project](https://github.com/john-courter-lu/kennnels-server)
 - 🌱 I’m currently learning **C#/.NET and SQL**
 - 👯 I’m looking to collaborate on **projects with React.js and Material UI**
 - 🤔 I’m interested in learning more about **Python, Node.js, and Express.js**
