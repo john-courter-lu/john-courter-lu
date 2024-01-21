@@ -5,9 +5,9 @@
 <h3 align="center">A full-stack software developer at Nashville Software School</h3>
 
 - 🔭 I’m currently working on [a ASP.Net MVC web application](https://github.com/john-courter-lu/DogGo) and [my first Python project](https://github.com/john-courter-lu/kennnels-server)
-- 🌱 I’m currently learning **C#/.NET and SQL**
+- 🌱 I’m currently learning **SQL, QA, and Automation(Ui Path)**
 - 👯 I’m looking to collaborate on **projects with React.js and Material UI**
-- 🤔 I’m interested in learning more about **Python, Node.js, and Express.js**
+- 🤔 I’m interested in learning more about **Python, GPT, and TDD(Test-Driven Development)**
 - 💬 Ask me about **granola and yogurt**
 - 📫 How to reach me: **lu4j@cmich.edu**
 - 👨‍💼 Connect with me on LinkedIn: **[in/john-courter-lu/](https://www.linkedin.com/in/john-courter-lu/)**
