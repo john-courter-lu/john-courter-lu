@@ -4,10 +4,10 @@
 
 <h3 align="center"> SDET @ HCA Healthcare & Full-stack software developer from Nashville Software School</h3>
 
-- 🔭 I’m currently working on [using Python to evaluate AI prompts quality](https://github.com/john-courter-lu/professional-services-ai-prompt-eval-lab) and [running AI prompts against golden / edge / compliance test cases](https://github.com/john-courter-lu/promptops-release-quality-gate)
+- 🔭 I’m currently working on [using Python to evaluate AI prompts quality](https://github.com/john-courter-lu/professional-services-ai-prompt-eval-lab) and [running AI prompts against golden/edge/compliance test cases](https://github.com/john-courter-lu/promptops-release-quality-gate)
 - 🌱 I’m currently learning **customizing AI skills and AI agents**
 - 👯 I’m looking to collaborate on **C# or Python Automations**
-- 🤔 I’m interested in learning more about **Accessbility Testing, Context Engneering and Forward Deployed Engneering**
+- 🤔 I’m interested in learning more about **Accessibility Testing, Context Engineering and Forward Deployed Engineering**
 - 💬 Ask me about **granola and yogurt**
 - 📫 How to reach me: **lu4j@cmich.edu**
 - 👨‍💼 Connect with me on LinkedIn: **[in/john-courter-lu/](https://www.linkedin.com/in/john-courter-lu/)**
